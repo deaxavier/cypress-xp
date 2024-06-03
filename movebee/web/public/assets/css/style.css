@@ -19,3 +19,12 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: -10px;
     width: 250px !important;
 }
+
+.swal2-confirm {
+    background-color: #fad776 !important;
+    color: #1b2a4e !important;
+}
+
+.swal2-confirm:focus {
+    box-shadow: 0 0 0 3px rgba(250, 215, 118, .5) !important;
+}
